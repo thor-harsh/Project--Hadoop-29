@@ -1,6 +1,5 @@
 # Project--Hadoop-29
 
-
 <table>
   
 **In this project We will use Spark with Python to do an amazing stuff.Here We will use Spark SQL along with Breadth First Search (BFS) to find the degree of seperation between two given characters in our Marvel Universe**.<br></br>
